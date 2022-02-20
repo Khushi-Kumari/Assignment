@@ -1,4 +1,4 @@
 TEXT-EDITOR
 
-#DEPLOYMENT LINK :
+DEPLOYMENT LINK :
 https://khushi-kumari.github.io/Assignment/
