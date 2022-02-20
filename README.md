@@ -10,5 +10,6 @@ on selecting text in box1 , you will notice selected text and number of letters 
 
 View on small screen
 
-![proof2](https://user-images.githubusercontent.com/87301585/154841059-57ea7287-5653-469a-8a17-7cc340de6d23.png)
+![proof2](https://user-images.githubusercontent.com/87301585/154841168-3b555bee-e41c-4445-80db-e6a4a335f91c.png)
+
 
